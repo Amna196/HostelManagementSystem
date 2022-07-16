@@ -15,3 +15,6 @@ Classes are `Hostel` `Room` `Student` `HostelName` `BedSpace` `Gender`
 
 ### Database schema
 Database schema created in dbdesigner.net ![img_1.png](img_1.png)
+
+### Coverage % 
+the coverage % of Both unit and integration tests ![img.png](img.png)

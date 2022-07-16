@@ -157,7 +157,7 @@ class HostelControllerTest {
     @Test
     void retrieveStudentNames_successfulHostelName_ReturnListOfStudentNames() throws Throwable {
         when(hostelService.studentsNameByHostelName(any())).thenReturn(any());
-        mockMvc.perform(get("http://localhost:8082/studentNames/{hostelName}","red")
+        mockMvc.perform(get("http://localhost:8082/studentNames/{hostelName}","RED")
                         .contentType(MediaType.APPLICATION_JSON))
                 .andExpect(status().isOk());
     }
