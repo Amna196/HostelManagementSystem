@@ -1,0 +1,20 @@
+--INSERT INTO hostel (id, category, hostelName) VALUES
+--(1, 'FEMALE', 'RED'),
+--(2, 'FEMALE', 'PINK'),
+--(3, 'MALE', 'BLUE'),
+--(4, 'MALE', 'BLACK');
+--
+--INSERT INTO Bedspaces (id, bedSize) VALUES
+--(1, 'SINGLE'),
+--(2, 'DOUBLE');
+--
+--INSERT INTO room (id) VALUES
+--(1),
+--(2),
+--(3);
+--
+--INSERT INTO Student (id, email, gender, name, phoneNumber) VALUES
+--(1, 'test@gemail.com', 'FEMALE', 'Amna', '99585496'),
+--(2, 'facke@hotmail.com', 'FEMALE', 'Aleen', '99311660'),
+--(3, 'info@mail.com', 'MALE', 'Anas', '99999999'),
+--(4, 'ayman@gemail.com', 'MALE', 'Ayman', '12345678');
