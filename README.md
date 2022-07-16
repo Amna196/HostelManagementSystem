@@ -13,8 +13,8 @@ Classes are `Hostel` `Room` `Student` `HostelName` `BedSpace` `Gender`
 - You can find all students in a Hostel by providing the name of the Hostel.
 - You can find all students in a room by providing the room id.
 
-### Database schema
+## Database schema
 Database schema created in dbdesigner.net ![img_1.png](img_1.png)
 
-### Coverage % 
+## Coverage % 
 the coverage % of Both unit and integration tests ![img.png](img.png)
